@@ -82,6 +82,7 @@ public class ProblemSet {
         } else {
             timeOfDay = "night";
         }
+        System.out.println(timeOfDay);
 
         // Question 6.
         int dayOfTheWeek = 5;
